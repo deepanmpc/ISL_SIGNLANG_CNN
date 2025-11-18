@@ -1,1 +1,0 @@
-# ISL_SIGNLANG_CNN
